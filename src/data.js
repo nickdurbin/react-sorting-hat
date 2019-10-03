@@ -12,7 +12,7 @@ export const data = [
   {
     question: "Which of these appeals to you?",
     answers: [
-      "Braveryr",
+      "Bravery",
       "Loyalty",
       "Knowledge",
       "Cunning"
