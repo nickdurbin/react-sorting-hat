@@ -1,4 +1,4 @@
-export const dataSet = [
+export const data = [
   {
     question: "Which colors do you prefer?",
     answers: [
